@@ -1,0 +1,16 @@
+Process Report - Wed Oct 22 05:43:37 UTC 2025
+    PID USER     %CPU %MEM COMMAND
+      1 root      1.1  0.4 systemd
+     45 root      0.5  0.5 systemd-journal
+    211 root      0.3  0.7 unattended-upgr
+     99 root      0.2  0.2 systemd-udevd
+    184 root      0.2  0.4 wsl-pro-service
+    152 systemd+  0.2  0.4 systemd-resolve
+    369 adarsh    0.1  0.3 systemd
+    194 syslog    0.1  0.1 rsyslogd
+    182 root      0.1  0.2 systemd-logind
+    153 systemd+  0.1  0.2 systemd-timesyn
+    166 message+  0.0  0.1 dbus-daemon
+    316 adarsh    0.0  0.1 bash
+    389 adarsh    0.0  0.1 bash
+    318 root      0.0  0.1 login
